@@ -1,4 +1,5 @@
 # Energy Theft & Abnormal Consumption Detection
+![Architecture](./assets/Internal_SIH_Team.jpeg)
 
 An AI-powered system for detecting **electricity theft and abnormal energy consumption** using smart-meter data, machine learning, and transformer-level energy analysis.
 
